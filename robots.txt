@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uithaicep.edwardmcintyre.com/sitemap.xml
